@@ -1,0 +1,24 @@
+<annotation>
+	<filename>J01_2018.06.23_10_01_28.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thin-spinning</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1312</ymin>
+			<xmax>2555</xmax>
+			<ymax>1493</ymax>
+		</bndbox>
+	</object>
+</annotation>
